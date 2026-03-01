@@ -1,4 +1,9 @@
+## 引导 (Boot)
 
-## WOA
+- [使U-boot引导uefi固件](Boot/BootShim.md)
 
-- [关于紫光uboot如何引导kernel](Java/resultmap-in-mybatis-plus-woa.md)
+## 调试 (Debug)
+
+- [UART](Debug/uart.md)
+- [Memory_UART](Debug/muart.md)
+- [FB_UART](Debug/fbuart.md)
